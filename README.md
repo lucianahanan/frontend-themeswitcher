@@ -20,7 +20,7 @@ In CSS, along with Sass, I'm using colors variables, viewport breakpoints, REM s
 
 <h3>Plus:</h3>
 <p>I added Sass to the project to help me on some CSS settings.</p>
-<p>The project was just make a theme switcher from light to dark and vice versa, with Javascript events and CSS animation.</p>
+<p>The project was just coding a theme switcher from light to dark and vice-versa, with Javascript events and CSS animation.</p>
 
 <h2>Example Images</h2>
 <p>Desktop<br>
